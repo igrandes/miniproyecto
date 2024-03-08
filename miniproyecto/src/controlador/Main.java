@@ -12,6 +12,8 @@ public class Main {
 		int y= s.nextInt();
 		int x= 3;
 		int suma = x + y;
+		int z = 10;
+		System.out.println(z);
 		System.out.println("La suma de tu numero mas 3 es: " + suma);
 	}
 
